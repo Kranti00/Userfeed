@@ -7,7 +7,7 @@ This project demonstrates strong usage of modern React hooks, routing, local sto
 ---
 
 ## 🚀 Live Demo
-(Replace with your Netlify URL)
+https://userfeeds.netlify.app/
 
 ---
 
