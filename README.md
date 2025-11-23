@@ -77,8 +77,8 @@ Using **React Router v6**:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/Kranti00/Userfeed.git
+cd my-app
 Install dependencies:
 
 bash
